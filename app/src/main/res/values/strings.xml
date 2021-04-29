@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Técnica Pomodoro</string>
+    <string name="str_button_start">Comenzar</string>
+    <string name="str_author">Hecho por Juan Camilo García Braham!</string>
 </resources>
